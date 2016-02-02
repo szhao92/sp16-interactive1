@@ -1,0 +1,49 @@
+body{
+	background-color: orange;
+}
+#container{
+	       width: 600px;
+	       height: 768px;
+	       background-color: green;
+	       font-family: helvetica;
+	       font-size: 30px;
+	       text-align: center;
+	       margin: auto;
+}
+
+#artist {
+         width: 200px;
+         height: 200px;
+         background-color: purple;
+         font-family: helvetica;
+         font-size: 30px;
+         text-align: center;
+         float: left;
+
+     }
+
+#sculptor{
+	      width: 200px;
+	      height: 200px;
+	      background-color: red;
+	      color: white;
+	      float: left;
+
+}
+
+.sidebar{
+	     width: 500px;
+	     height: 200px;
+	     background-color: green;
+	     color:white;
+	     font-size: 40px;
+	     border: 20px dotted #568301;
+}
+
+#circle{
+	 width: 200px;
+	 height: 200px;
+	 background-color: yellow;
+	 float: left;
+
+}
