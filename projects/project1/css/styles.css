@@ -1,0 +1,95 @@
+body{
+     background-color: black;
+     color: white;
+
+     font-family: 'Ubuntu', sans-serif;
+     text-align: justify;
+     letter-spacing: .1em;
+     margin-left: 600px;
+     margin-right: 50px;
+     margin-bottom: 200px;
+     word-spacing: .25em
+
+
+
+
+ }
+
+h2{
+	font-family: 'Bangers', cursive;
+	color:  white;
+  font-weight: 200;
+	font-size: 50px;
+	margin-top: -160px;
+	margin-left: -510px;
+
+
+}
+
+h1{
+   font-family: 'Bangers', cursive;
+   font-size: 80px;
+   color:  white;
+   margin-top: -50px;
+   margin-left: -510px;
+
+}
+
+h5{
+   font-size: 20px;
+   margin:auto;
+   color: white:;
+}
+
+h3{
+   font-family: 'Bangers', cursive;
+   color: black;
+   font-size: 50px;
+   text-align: right;
+   color: white;
+ }
+
+ #pic1{
+        margin-left: -550px;
+        margin-top: 80px;
+
+
+ }
+
+ #pic2{
+       margin-left: -550px;
+       margin-top: 10px;
+
+ }
+
+ #container{
+            background-color: black;
+            width: 1580px;
+            height: 280px;
+            margin-left: -550px;
+            margin-right:100px;
+            color: white;
+
+
+
+ }
+ #section{
+          margin-top: -850px;
+          font-family:'Ubuntu', sans-serif;
+          font-size: 22px;    
+          font-style: bold;
+          letter-spacing: 0.09em;
+          margin-bottom: 50px;
+          color: white;
+ 
+ }
+ #iframe{
+         margin-bottom:50px;
+         margin-left: -550px
+
+
+ }
+
+
+
+ 

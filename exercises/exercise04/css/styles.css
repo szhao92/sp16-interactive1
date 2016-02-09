@@ -1,0 +1,30 @@
+
+body{
+	 background: #466368;
+     background: linear-gradient(to right, #648880 25%, #293f50 75%, #f9aafa);
+}
+
+p   {
+	 word-spacing: 2em;
+	 text-align: justify;
+	 color: white;
+	 opacity: .3;
+
+}
+
+
+#container {
+	         width: 690px;
+	         height:200px;
+	         background-color: white;
+	         z-index: 1;
+
+}
+
+#copy {
+	    width: 690px;
+	    height: 80px;
+	    z-index: 0;
+}
+
+
