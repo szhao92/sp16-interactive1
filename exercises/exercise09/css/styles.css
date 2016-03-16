@@ -1,0 +1,9 @@
+#container{
+	       width: 1000px;
+	       height: 3000px;
+	       margin:auto;
+	       border:20px;
+	       background-color: red;
+	       text-align: center;
+
+}
