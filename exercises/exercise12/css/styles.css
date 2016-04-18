@@ -1,0 +1,55 @@
+body{
+	  background-color: #FFDAB9
+;
+}
+
+
+.box1 {
+	  
+	 
+	  color: #FF6347;
+	 
+	  font-size: 30px;
+	  width: 200px;
+	  height: 100px;
+	  font-family: helvetica;
+	  margin-bottom: 300px;
+	  padding: 30px;
+}
+
+
+.box2 {
+	  
+	  color: #FF8C00;
+	  font-family: helvetica;
+	  width: 1000px;
+	  height: 100px;
+	  font-size: 100px;
+	  margin-top: 40px;
+	  text-align: center;
+	  padding: 30px;
+}
+
+.box3{
+	  color: orange;
+	  font-family: helvetica;
+	  width: 1000px;
+	  height: 100px;
+	  font-size: 100px;
+	  margin-top: 40px;
+	  text-align: center;
+	  padding: 30px;
+}
+
+.box4{
+	  
+	 
+	  color: #FF6347;
+	 
+	  font-size: 30px;
+	  width: 200px;
+	  height: 100px;
+	  font-family: helvetica;
+	  margin-bottom: 100px;
+	  padding: 30px;
+}

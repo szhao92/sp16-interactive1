@@ -1,0 +1,26 @@
+body{
+     background-color: yellow
+}
+/* This is the animation code. */
+@-webkit-keyframes example {
+   from { transform: scale(100.0); }
+   to   { transform: scale(1.0); }
+}
+
+
+.colorbox {
+   -webkit-animation-name: example;
+   -webkit-animation-duration: 10s;
+   -webkit-animation-timing-function: ease; /* ease is the default */
+   -webkit-animation-delay: 1s;             /* 0 is the default */
+   -webkit-animation-iteration-count: 2;    /* 1 is the default */
+   -webkit-animation-direction: alternate; 
+   font-family: helvetica; /* normal is the default */
+   margin-left: 200px;
+   margin-top: 200px;
+   height: 300px;
+   width: 300px;
+   background:  #ff8000
+;
+}
+

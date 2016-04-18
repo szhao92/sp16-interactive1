@@ -1,0 +1,66 @@
+body{
+	  background: #ffeecc
+;
+	 }
+
+#container1{
+
+        width: 1200px;
+	    height: 4000px;
+	    margin:auto;
+
+}
+
+@font-face{
+	       font-family: ELEPHANT; 
+	       src:url("ELEPHANT.TTF");
+
+}
+
+@font-face{
+	       font-family:Didot; 
+	       src:url("Didot.ttc");
+
+}
+
+@font-face{
+	       font-family: Avenir Next; 
+	       src:url("Avenir next.ttc");
+
+}
+
+	    
+
+#main{
+	        font-family: ELEPHANT;
+	        font-size: 200px;
+	        color:  #33cccc
+;
+	        text-align: center;
+
+}
+
+
+
+
+#main2{
+	   font-family: Didot;
+	   font-size: 150px;
+	   color: white;
+	   text-align: center;
+	  
+
+
+}
+
+#box3{
+	  font-family: Avenir Next;
+	  font-size: 20px;
+	  color:  #ff6666
+;
+	  text-align: center;
+}
+
+
+
+
