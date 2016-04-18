@@ -522,15 +522,15 @@ body{
     border-radius: 50%;
   background-color: #ffcc00;
   margin-left: 420px;
-  margin-top: -960px;
+  margin-top: -980px;
 }
 .circle2{
-    height: 800px;
-    width: 800px;
+    height: 810px;
+    width: 810px;
     border-radius: 50%;
   background-color: black;
   margin-left: 420px;
-  margin-top: -820px;
+  margin-top: -800px;
 }
 
 
