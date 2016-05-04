@@ -8,7 +8,7 @@ body{
          
 
                      
-                     @font-face { font-family: 'Avenir'; src: url('Avenir.ttc'); }
+                     @font-face { font-family: 'Didot'; src: url('Didot.ttc'); }
                      @font-face { font-family: 'Futura'; src: url('Futura.ttc'); }
 
                      /*More about the right way to do @font-face embedding can be found here:
@@ -22,7 +22,7 @@ body{
                      -moz-transform-origin:50% 100%; -webkit-transform-origin:50% 100%; -o-transform-origin:50%
                      100%; -ms-transform-origin:50% 100%; transform-origin:50% 100%; }
 
-                     #warped span{font-family:'Futura';font-size:38pt;font-weight:normal;font-style:normal;
+                     #warped span{font-family: 'Arvo', serif;font-style:700;font-size:38pt;font-weight:normal;font-style:normal;
                      line-height:0.65; white-space:pre; overflow:visible; padding:0px;}
 
                      #warped .w0 {-moz-transform: rotate(-1.26rad);-webkit-transform: rotate(-1.26rad);-o-transform:

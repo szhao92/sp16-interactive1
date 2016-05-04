@@ -1,0 +1,122 @@
+body{
+	  background-color: #151314;
+         width: 1580px;
+         height: 1000px;
+
+}
+
+
+#container{
+            width:960px;
+            height: 481px;
+            margin-left: 0px;
+            margin-top: 400px;
+
+}
+
+
+
+.page{
+        font-family: 'Pacifico', cursive;
+        font-size: 50px;
+        color: #ffa64d;
+        float: right;
+        margin-right: 120px;
+        margin-top: 830px;
+       
+
+ }
+
+ .title{
+          font-family: 'Sigmar One', cursive;
+          font-size: 120px;
+          color: #E77320;
+          margin-top: 800px;
+          
+ }
+
+
+
+.box{
+       width: 200px;
+       height: 150px;
+       float: right;
+       margin-bottom: 500px;
+}          
+
+
+
+.sign{
+      font-size: 50px;
+      float: right;
+      color: #ffa64d;
+      margin-top: 20px;
+     
+
+
+      
+
+
+}    
+
+.container1{
+             margin-left: 600px;
+             margin-top: -350px;
+}
+                     
+
+.home{
+       font-family: 'Sigmar One', cursive;
+       font-size: 30px;
+       color: #E77320;
+       margin-top: -1100px;
+       margin-left: 20px;
+
+}     
+
+#container2{
+             margin-right: 10px;
+             float: right;
+             }
+
+.pic3{
+       margin-left: -500px;
+       margin-top: -600px;
+
+}
+
+.pic4{
+       margin-left: 800px;
+       margin-top:50px;
+       position:absolute;; 
+}  
+#pic5{
+       margin-left: 200px;
+       margin-top: 300px;
+       position:absolute;
+}
+.pic6{
+      margin-left: 200px;
+      margin-top: -200px;
+      position:absolute;
+
+}
+
+.pic7{
+      margin-left:-200px;
+      margin-top: 500px;
+      position:absolute;
+
+}
+
+.pic8{
+       margin-left: 400px;
+       margin-top: 650px;
+        position:absolute;
+
+}
+
+        
+
+
+            

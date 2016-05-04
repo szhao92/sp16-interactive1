@@ -1,0 +1,133 @@
+body{
+	  background-color: #F7F6F3;
+         width: 1580px;
+         height: 800px;
+
+}
+
+
+#container{
+            width:960px;
+            height: 481px;
+            margin-left: 0px;
+            margin-top: 1500px;
+
+}
+
+
+
+.page{
+        font-family: 'Pacifico', cursive;
+        font-size: 50px;
+        color: #ffa64d;
+        float: right;
+        margin-top: -90px;
+        margin-right: -50px;
+
+ }
+
+ .title{
+          font-family: 'Sigmar One', cursive;
+          font-size: 120px;
+          color: #E77320;
+          margin-top:-700px;
+          float: right;
+          z-index: 1;
+ }
+
+
+
+.box{
+       width: 200px;
+       height: 150px;
+       float: right;
+       margin-bottom: 500px;
+}          
+
+
+
+.sign{
+      font-size: 50px;
+      float: right;
+      color: #ffa64d;
+      margin-top: 100px;
+}    
+
+.home{
+       font-family: 'Pacifico', cursive;
+        font-size: 50px;
+        color: #ffa64d;
+        margin-top: 100px;
+        margin-left:20px;
+}
+.container1{
+             margin-left: 600px;
+             margin-top: -100px;
+}
+#container2{
+             
+             margin-left:850px;
+             margin-top: -60px;
+             position: absolute;
+}
+
+#container3{
+            margin-top: -1200px;
+            position: absolute;
+            margin-left: -150px;
+}
+
+#container4{
+            margin-left:-410px;
+             margin-top: -60px;
+             position: absolute;
+}
+
+#container5{
+            margin-top: -1800px;
+            position: absolute;
+            margin-left: -150px;
+
+}
+.pic11{      
+
+            
+             margin-left: 800px;
+             margin-top: -800px;
+
+             position: absolute;
+}
+.pic12{
+         margin-top: -1600px;
+         margin-left: -600px;
+         position: absolute;
+}
+
+.pic13{
+        margin-top:-1000px;
+        margin-left: -400px;
+        position: absolute; 
+       
+  }
+.pic14{
+        margin-left:-100px;
+        margin-top: -300px;
+        position: absolute;
+}
+.pic15{
+        margin-left:400px;
+        margin-top: -800px;
+        position: absolute;
+}
+.pic16{
+        margin-left:800px;
+        margin-top: -1500px;
+        position: absolute;
+
+}
+
+                     
+                     
+
+
+            
